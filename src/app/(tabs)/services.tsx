@@ -25,7 +25,7 @@ function getDevMenuHint() {
   );
 }
 
-export default function HomeScreen() {
+export default function ServicesScreen() {
   return (
     <SafeAreaView style={{ flex: 1 }}>
       <View style={{ marginTop: 50, backgroundColor: "red", padding: 10 }}>
