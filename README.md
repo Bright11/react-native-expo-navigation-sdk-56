@@ -1,4 +1,6 @@
-# Welcome to your Expo app 56 sdk👋
+# Welcome to your Expo app 56 sdk Navigation👋
+
+## We will cover, drawer, stack and tabs naivations
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
